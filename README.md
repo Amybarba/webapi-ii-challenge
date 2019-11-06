@@ -9,14 +9,14 @@
 
 ## Description
 
-Use `Node.js` and `Express` to build an API that performs _CRUD_ operations on `blog posts`.
+X Use `Node.js` and `Express` to build an API that performs _CRUD_ operations on `blog posts`.
 
 ### Project Setup
 
-- **Fork** and **Clone** this repository.
-- **CD into the folder** where you cloned the repository.
-- Type `npm install` to download all dependencies.
-- To start the server, type `npm run server` from the root folder (where the _package.json_ file is). The server is configured to restart automatically as you make changes.
+X - **Fork** and **Clone** this repository.
+X - **CD into the folder** where you cloned the repository.
+X - Type `npm install` to download all dependencies.
+X - To start the server, type `npm run server` from the root folder (where the _package.json_ file is). The server is configured to restart automatically as you make changes.
 
 ### Database Persistence Helpers
 
